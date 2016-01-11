@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Candy()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Candy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=select
+comment1.target=Candy(CandyType)
+comment2.params=y
+comment2.target=void\ setY(int)
+comment3.params=
+comment3.target=CandyType\ getChoice()
+comment4.params=select
+comment4.target=void\ setChoice(CandyType)
+comment5.params=f\ fn
+comment5.target=void\ update(Candy,\ CandyPanda)
+numComments=6

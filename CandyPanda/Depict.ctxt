@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Depict()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=msg\ candyPanda
+comment2.target=void\ display(java.lang.String,\ CandyPanda)
+comment3.params=candyPanda
+comment3.target=void\ remove(CandyPanda)
+numComments=4

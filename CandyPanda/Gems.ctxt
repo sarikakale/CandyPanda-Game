@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=y
+comment0.target=void\ setY(int)
+comment0.text=\r\n\ \ \ \ public\ ArrayList<Part>\ clearArrayList()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ Gems\ \=\ new\ ArrayList<Part>();\r\n\ \ \ \ \ \ \ \ return\ Gems;\r\n\ \ \ \ }\r\n
+comment1.params=
+comment1.target=void\ removeWorldObject()
+comment2.params=c
+comment2.target=void\ addChild(Part)
+comment3.params=c
+comment3.target=void\ removeChild(Part)
+comment4.params=i
+comment4.target=Part\ getChild(int)
+comment5.params=
+comment5.target=java.util.ArrayList\ getBunch()
+comment6.params=
+comment6.target=void\ act()
+comment7.params=fn
+comment7.target=void\ addChildren(CandyPanda)
+comment8.params=
+comment8.target=void\ path()
+comment9.params=fn
+comment9.target=void\ remove(CandyPanda)
+numComments=10

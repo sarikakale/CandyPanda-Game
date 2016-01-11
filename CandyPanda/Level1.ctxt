@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Level1()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=timer
+comment2.target=void\ setTimer(int)
+comment3.params=
+comment3.target=void\ setTimerLevel()
+comment4.params=
+comment4.target=int\ getTimer()
+comment5.params=
+comment5.target=java.lang.String\ getNextLevelMessage()
+comment6.params=
+comment6.target=greenfoot.GreenfootImage\ changeLevelBackground()
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=y
+comment0.target=void\ setY(int)
+comment1.params=
+comment1.target=Twix()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ path()
+comment4.params=fn
+comment4.target=void\ remove(CandyPanda)
+comment4.text=\r\n\ Pop\ this\ Twix.\r\n
+numComments=5
